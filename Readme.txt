@@ -1,4 +1,4 @@
-Thanks for this template!
+Thanks for this new template!
 
 Template Name: Logistical Engineering
 Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
